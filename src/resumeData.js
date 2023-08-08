@@ -1,105 +1,85 @@
 let resumeData = {
    // "imagebaseurl":"https://rbhatia46.github.io/",
     "name": "Bashar Owainat",
-    "role": "Frontend Developer and Data Scientist",
-    "linkedinId":"Your LinkedIn Id",
-    "skypeid": "Your skypeid",
-    "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+    "role": ".NET Developer",
+    "linkedinId":"Bashar Owainat",
+    "skypeid": "",
+    "roleDescription": "I'm interested in .NET in general and in ASP.NET core in particular and I always hungry to learn more about it",
     "socialLinks":[
         {
           "name":"linkedin",
-          "url":"https://www.linkedin.com/in/rahul-bhatia-67ba08121/",
+          "url":"https://www.linkedin.com/in/bashar-owainat-301656228/",
           "className":"fa fa-linkedin"
         },
         {
           "name":"github",
-          "url":"http://github.com/rbhatia46",
+          "url":"https://github.com/Bashar-Owainat",
           "className":"fa fa-github"
         },
         {
-          "name":"skype",
-          "url":"http://twitter.com/rbhatia46",
-          "className":"fa fa-twitter"
+          "name":"",
+          "url":"",
+          "className":""
         }
       ],
-    "aboutme":"I am currently a pre-final year student at The LNM Institute of Information Technology and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
-    "address":"India",
-    "website":"https://rbhatia46.github.io",
+    "aboutme":"I am currently working as a TA in an american institution for programming called Code Fellows located in ASAC/LTUC Amman.",
+    "address":"Amman, Jordan",
+    "website":"https://www.linkedin.com/in/bashar-owainat-301656228/",
     "education":[
       {
-        "UniversityName":"The LNM Insitute of Information Technology",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Aug",
-        "YearOfPassing":"2020",
-        "Achievements":"Some Achievements"
-      },
-      {
-        "UniversityName":"Some University",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Jan",
-        "YearOfPassing":"2018",
-        "Achievements":"Some Achievements"
+        "UniversityName":"LTUC",
+        "specialization":"Software Engineering",
+        "MonthOfPassing":"March",
+        "YearOfPassing":"2022",
+        "Achievements":"graduated at the top of my class"
       }
     ],
     "work":[
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
-      },
-      {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "CompanyName":"ASAC/Luminus",
+        "specialization":"Teaching Assistant",
+        "MonthOfLeaving":"",
+        "YearOfLeaving":"",
+        "Achievements":""
       }
     ],
     "skillsDescription":"Your skills here",
     "skills":[
       {
-        "skillname":"HTML5"
+        "skillname":"ASP.NET core"
       },
       {
-        "skillname":"CSS"
+        "skillname":"C#"
       },
       {
-        "skillname":"Reactjs"
+        "skillname":"Unit testing"
+      },
+      {
+        "skillname":"TDD"
       }
+      
     ],
     "portfolio":[
       {
         "name":"COVID-19",
-        "description":" Visit it here: https://github.com/Bashar-Owainat/covid-19-app ",
+        "description":"Visit it here: https://github.com/Bashar-Owainat/covid-19-app",
         "imgurl":"https://www.widener.edu/sites/default/files/2020-03/Coronavirus_Graphic_Page_1200x750.png",
        
       },
       {
-        "name":"project2",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/project.jpg"
-      },
-      {
-        "name":"project3",
-        "description":"mobileapp",  
-        "imgurl":"images/portfolio/project2.png"
-      },
-      {
-        "name":"project4",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "name":"Hotel Management system",
+        "description":"Visit it here: https://github.com/Bashar-Owainat/Async-Inn-d2",
+        "imgurl":"https://st4.depositphotos.com/1001599/39398/v/1600/depositphotos_393980110-stock-illustration-hospitality-management-concept-vector-illustration.jpg"
       }
     ],
     "testimonials":[
       {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
+        "description":"",
+        "name":""
       },
       {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
+        "description":"",
+        "name":""
       }
     ]
   }
